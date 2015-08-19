@@ -1,6 +1,6 @@
 # Trolley
 This is the code for an application designed to provide real-time tracking of trolleys or other transport mechanisms within a college's vicinity
-# backtrolley (Sub-Folder)
+#  backtrolley (Sub-Folder)
 Contains the application that handles the requests from the GPS device
 # node_query (Sub-Folder)
 Node server code
