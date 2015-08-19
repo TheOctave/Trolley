@@ -1,0 +1,10 @@
+{
+  "name": "trolley-connect",
+  "version": "0.0.1",
+  "description": "server code to handle asynchronous trolley client requests",
+  "dependencies": {
+    "body-parser": "^1.13.3",
+    "express": "^4.10.2",
+    "socket.io": "^1.3.6"
+  }
+}
